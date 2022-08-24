@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Formulario/static/css/main.1de3a484.css",
-    "main.js": "/Formulario/static/js/main.414b4c81.js",
-    "static/js/787.97a945da.chunk.js": "/Formulario/static/js/787.97a945da.chunk.js",
-    "index.html": "/Formulario/index.html",
-    "main.1de3a484.css.map": "/Formulario/static/css/main.1de3a484.css.map",
-    "main.414b4c81.js.map": "/Formulario/static/js/main.414b4c81.js.map",
-    "787.97a945da.chunk.js.map": "/Formulario/static/js/787.97a945da.chunk.js.map"
+    "main.css": "/Formulario/formulario/static/css/main.1de3a484.css",
+    "main.js": "/Formulario/formulario/static/js/main.c2b0e957.js",
+    "static/js/787.97a945da.chunk.js": "/Formulario/formulario/static/js/787.97a945da.chunk.js",
+    "index.html": "/Formulario/formulario/index.html",
+    "main.1de3a484.css.map": "/Formulario/formulario/static/css/main.1de3a484.css.map",
+    "main.c2b0e957.js.map": "/Formulario/formulario/static/js/main.c2b0e957.js.map",
+    "787.97a945da.chunk.js.map": "/Formulario/formulario/static/js/787.97a945da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1de3a484.css",
-    "static/js/main.414b4c81.js"
+    "static/js/main.c2b0e957.js"
   ]
 }
